@@ -9,7 +9,7 @@ def safe_string(string: str):
         'shitface',
         'chick',
         'dick',
-        'shithead'
+        'shithead',
         'crap',
         'hell',
         'mf',
